@@ -18,9 +18,9 @@ flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.f
 ```
 setup-desktop 
 rc-update add dbus elogind polkit sddm
-rc-service sddm start
 rc-service dbus start
 rc-service polkit start
+rc-service sddm start
 ```
 # Programs #
 
