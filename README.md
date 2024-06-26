@@ -37,5 +37,6 @@ gimp libreoffice mpv wine
 ```
 flatpak install flathub com.chatterino.chatterino com.discordapp.Discord \
 im.riot.Riot io.github.aandrew_me.ytdn com.valvesoftware.Steam \
-com.usebottles.bottles io.github.shiftey.Desktop org.godotengine.Godot
+com.usebottles.bottles io.github.shiftey.Desktop org.godotengine.Godot \
+com.obsproject.Studio
 ```
