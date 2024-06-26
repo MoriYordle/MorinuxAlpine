@@ -11,7 +11,8 @@ nano /etc/apk/repositories #Uncomment community repo
 apk update
 apk add git doas dbus dbus-x11 elogind polkit-elogind zsh dosfstools \
 kde-applications flatpak discover-backend-flatpak pipewire wireplumber \
-pipewire-pulse pipewire-jack pipewire-alsa xdg-desktop-portal-kde shadow
+pipewire-pulse pipewire-jack pipewire-alsa xdg-desktop-portal-kde \
+shadow curl 
 flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
 adduser mori wheel
 nano /etc/doas.conf # Uncomment wheel perms
