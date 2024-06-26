@@ -1,6 +1,6 @@
 **Welcome to [Alpine Linux](https://alpinelinux.org/), but this is my own system OwO**
 
-![Alpine Linux Logo](https://pkgs.alpinelinux.org/assets/alpinelinux-logo.svg)
+![Alpine Linux Logo](https://github.com/MoriYordle/MorinuxAlpine/blob/main/Assets/Images/Alpine%20Morinux.png)
 
 # Setup #
 
